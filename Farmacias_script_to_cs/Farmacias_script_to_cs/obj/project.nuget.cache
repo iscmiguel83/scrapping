@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LUyNuvG+l2Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\Documents\\Conversion_python_cs\\Farmacias_script_to_cs\\Farmacias_script_to_cs\\Farmacias_script_to_cs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\htmlagilitypack\\1.11.71\\htmlagilitypack.1.11.71.nupkg.sha512"
+  ],
+  "logs": []
+}

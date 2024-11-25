@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Documents\\Conversion_python_cs\\Farmacias_script_to_cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0930E3C1-477B-4FB5-B613-6B69A6445519}|Farmacias_script_to_cs\\Farmacias_script_to_cs.csproj|c:\\users\\daniel\\documents\\conversion_python_cs\\farmacias_script_to_cs\\farmacias_script_to_cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0930E3C1-477B-4FB5-B613-6B69A6445519}|Farmacias_script_to_cs\\Farmacias_script_to_cs.csproj|solutionrelative:farmacias_script_to_cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0930E3C1-477B-4FB5-B613-6B69A6445519}|Farmacias_script_to_cs\\Farmacias_script_to_cs.csproj|c:\\users\\daniel\\documents\\conversion_python_cs\\farmacias_script_to_cs\\farmacias_script_to_cs\\farmaciasahorroscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0930E3C1-477B-4FB5-B613-6B69A6445519}|Farmacias_script_to_cs\\Farmacias_script_to_cs.csproj|solutionrelative:farmacias_script_to_cs\\farmaciasahorroscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0930E3C1-477B-4FB5-B613-6B69A6445519}|Farmacias_script_to_cs\\Farmacias_script_to_cs.csproj|c:\\users\\daniel\\documents\\conversion_python_cs\\farmacias_script_to_cs\\farmacias_script_to_cs\\farmaciassimilaresscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0930E3C1-477B-4FB5-B613-6B69A6445519}|Farmacias_script_to_cs\\Farmacias_script_to_cs.csproj|solutionrelative:farmacias_script_to_cs\\farmaciassimilaresscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0930E3C1-477B-4FB5-B613-6B69A6445519}|Farmacias_script_to_cs\\Farmacias_script_to_cs.csproj|c:\\users\\daniel\\documents\\conversion_python_cs\\farmacias_script_to_cs\\farmacias_script_to_cs\\mercadolibrescraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0930E3C1-477B-4FB5-B613-6B69A6445519}|Farmacias_script_to_cs\\Farmacias_script_to_cs.csproj|solutionrelative:farmacias_script_to_cs\\mercadolibrescraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FarmaciasAhorroScraper.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\Conversion_python_cs\\Farmacias_script_to_cs\\Farmacias_script_to_cs\\FarmaciasAhorroScraper.cs",
+              "RelativeDocumentMoniker": "Farmacias_script_to_cs\\FarmaciasAhorroScraper.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\Conversion_python_cs\\Farmacias_script_to_cs\\Farmacias_script_to_cs\\FarmaciasAhorroScraper.cs",
+              "RelativeToolTip": "Farmacias_script_to_cs\\FarmaciasAhorroScraper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:47:33.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FarmaciasSimilaresScraper.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\Conversion_python_cs\\Farmacias_script_to_cs\\Farmacias_script_to_cs\\FarmaciasSimilaresScraper.cs",
+              "RelativeDocumentMoniker": "Farmacias_script_to_cs\\FarmaciasSimilaresScraper.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\Conversion_python_cs\\Farmacias_script_to_cs\\Farmacias_script_to_cs\\FarmaciasSimilaresScraper.cs",
+              "RelativeToolTip": "Farmacias_script_to_cs\\FarmaciasSimilaresScraper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:23:58.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MercadoLibreScraper.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\Conversion_python_cs\\Farmacias_script_to_cs\\Farmacias_script_to_cs\\MercadoLibreScraper.cs",
+              "RelativeDocumentMoniker": "Farmacias_script_to_cs\\MercadoLibreScraper.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\Conversion_python_cs\\Farmacias_script_to_cs\\Farmacias_script_to_cs\\MercadoLibreScraper.cs",
+              "RelativeToolTip": "Farmacias_script_to_cs\\MercadoLibreScraper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:50:23.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\Conversion_python_cs\\Farmacias_script_to_cs\\Farmacias_script_to_cs\\Program.cs",
+              "RelativeDocumentMoniker": "Farmacias_script_to_cs\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\Conversion_python_cs\\Farmacias_script_to_cs\\Farmacias_script_to_cs\\Program.cs",
+              "RelativeToolTip": "Farmacias_script_to_cs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:00:28.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

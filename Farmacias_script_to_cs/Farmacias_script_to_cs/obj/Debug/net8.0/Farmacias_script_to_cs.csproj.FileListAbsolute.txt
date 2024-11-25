@@ -1,0 +1,17 @@
+C:\Users\Daniel\Documents\Conversion_python_cs\Farmacias_script_to_cs\Farmacias_script_to_cs\bin\Debug\net8.0\Farmacias_script_to_cs.exe
+C:\Users\Daniel\Documents\Conversion_python_cs\Farmacias_script_to_cs\Farmacias_script_to_cs\bin\Debug\net8.0\Farmacias_script_to_cs.deps.json
+C:\Users\Daniel\Documents\Conversion_python_cs\Farmacias_script_to_cs\Farmacias_script_to_cs\bin\Debug\net8.0\Farmacias_script_to_cs.runtimeconfig.json
+C:\Users\Daniel\Documents\Conversion_python_cs\Farmacias_script_to_cs\Farmacias_script_to_cs\bin\Debug\net8.0\Farmacias_script_to_cs.dll
+C:\Users\Daniel\Documents\Conversion_python_cs\Farmacias_script_to_cs\Farmacias_script_to_cs\bin\Debug\net8.0\Farmacias_script_to_cs.pdb
+C:\Users\Daniel\Documents\Conversion_python_cs\Farmacias_script_to_cs\Farmacias_script_to_cs\obj\Debug\net8.0\Farmacias_script_to_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Documents\Conversion_python_cs\Farmacias_script_to_cs\Farmacias_script_to_cs\obj\Debug\net8.0\Farmacias_script_to_cs.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\Conversion_python_cs\Farmacias_script_to_cs\Farmacias_script_to_cs\obj\Debug\net8.0\Farmacias_script_to_cs.AssemblyInfo.cs
+C:\Users\Daniel\Documents\Conversion_python_cs\Farmacias_script_to_cs\Farmacias_script_to_cs\obj\Debug\net8.0\Farmacias_script_to_cs.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Conversion_python_cs\Farmacias_script_to_cs\Farmacias_script_to_cs\obj\Debug\net8.0\Farmacias_script_to_cs.dll
+C:\Users\Daniel\Documents\Conversion_python_cs\Farmacias_script_to_cs\Farmacias_script_to_cs\obj\Debug\net8.0\refint\Farmacias_script_to_cs.dll
+C:\Users\Daniel\Documents\Conversion_python_cs\Farmacias_script_to_cs\Farmacias_script_to_cs\obj\Debug\net8.0\Farmacias_script_to_cs.pdb
+C:\Users\Daniel\Documents\Conversion_python_cs\Farmacias_script_to_cs\Farmacias_script_to_cs\obj\Debug\net8.0\Farmacias_script_to_cs.genruntimeconfig.cache
+C:\Users\Daniel\Documents\Conversion_python_cs\Farmacias_script_to_cs\Farmacias_script_to_cs\obj\Debug\net8.0\ref\Farmacias_script_to_cs.dll
+C:\Users\Daniel\Documents\Conversion_python_cs\Farmacias_script_to_cs\Farmacias_script_to_cs\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\Daniel\Documents\Conversion_python_cs\Farmacias_script_to_cs\Farmacias_script_to_cs\obj\Debug\net8.0\Farmacias_script_to_cs.csproj.AssemblyReference.cache
+C:\Users\Daniel\Documents\Conversion_python_cs\Farmacias_script_to_cs\Farmacias_script_to_cs\obj\Debug\net8.0\Farmacia.946D7559.Up2Date
